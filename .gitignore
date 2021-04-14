@@ -1,0 +1,28 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.iml
+module-info.java
+*.iml
+
+# Directories #
+######################
+out/
+.idea/
+lib/
+
+checkstyle-*.jar
+*.xml
+*.py
